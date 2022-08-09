@@ -97,7 +97,7 @@ DATABASES = {
 
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': ‘dao4so2botrtb1’,
+        'Database': ‘dao4so2botrtb1’,
 
         'USER': 'ovpsuvrlfimjoy',
 
